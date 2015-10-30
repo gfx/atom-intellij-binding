@@ -1,0 +1,8 @@
+compile-cache/
+storage/
+packages/
+.node-gyp/
+.apm
+*~
+*.swp
+
